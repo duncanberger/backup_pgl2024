@@ -30,7 +30,12 @@ This repository contains two main folders: `Analysis` and `Figures`.
 <details>
 <summary>View folder contents</summary>
 <ol>
-  <li>Analysis</li>
+  <li>Analysis - contains the code used to generate:</li>
+  <ol>
+      <li>the distance matrix</li>
+      <li>the phylogenetic tree</li>
+    <li>GPSC and Mandrake clustering</li>
+    </ol>
   <li>Figures</li>
 </ol>
 </details>
