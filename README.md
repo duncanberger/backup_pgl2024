@@ -30,8 +30,18 @@ This repository contains two main folders: `Analysis` and `Figures`.
 ```mermaid
 graph TD;
 repo[This Repository]
+dist[Distance Matrix]
+tree[Phylogenetic Tree]
+clust[GPSC Clustering]
+clust2[Mandrake Clustering]
+
 repo-->Analysis;
+Analysis-->dist;
+Analysis-->tree;
+Analysis-->clust;
+analusis-->clust2;
 repo-->Figures;
+Analysis-->Figures;
 Figures-->Manuscript;
 Analysis-->Manuscript;
 
