@@ -17,7 +17,7 @@
 # Overview
 This repository contains the code used to run analyses and generate figures for the following manuscript:  
 <p align="center">
-// [Microbial Genomics](https://blank.page/)
+[Microbial Genomics](https://blank.page/)
 </p>
 
 # Codebook
