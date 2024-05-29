@@ -29,13 +29,10 @@ This repository contains the code used to run analyses and generate figures for 
 This repository contains two main folders: `Analysis` and `Figures`. 
 ```mermaid
 graph TD;
-This%20repository-->Analysis;
-Analysis-->clustering;
-Analysis-->phylogenetic%20tree;
-Analysis-->distance%20matrix;
-This%20repository-->Figures;
-Figures-->manuscript;
-Analysis-->manuscript;
+Repository-->Analysis;
+Repository-->Figures;
+Figures-->Manuscript;
+Analysis-->Manuscript;
 ```
 <details>
 <summary>View folder contents</summary>
