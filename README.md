@@ -27,6 +27,12 @@ This repository contains the code used to run analyses and generate figures for 
 
 # Codebook
 This repository contains two main folders: `Analysis` and `Figures`. 
+<style>
+.mermaid
+
+{ width:100%; }
+</style>
+
 ```mermaid
 graph TD;
 repo[This Repository]
@@ -49,55 +55,6 @@ dist-->Figures;
 tree-->Figures;
 clust-->Figures;
 clust2-->Figures;
-
-var config = {
-            startOnLoad:true,
-            htmlLabels:true,
-            callback:function(id){
-                console.log(id,' rendered');
-            },
-            flowchart:{
-                    useMaxWidth:true,
-                }
-        };
-        mermaid.initialize(config);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ```
 <details>
