@@ -52,8 +52,10 @@ dist-->Figures;
 tree-->Figures;
 clust-->Figures;
 clust2-->Figures;
-```  
-**Hit refresh on your browser if the above figure is not rendering**
+```
+```diff  
+Hit refresh on your browser if the above figure is not rendering
+```
 
 
 
