@@ -54,7 +54,8 @@ clust-->Figures;
 clust2-->Figures;
 ```
 ```diff  
-Hit refresh on your browser if the above figure is not rendering
+- Hit refresh on your browser if the above figure is not rendering
++ Not sure why this happens
 ```
 
 
