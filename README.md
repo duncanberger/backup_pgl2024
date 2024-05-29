@@ -21,12 +21,14 @@ This repository contains the code used to run analyses and generate figures for 
 </p>  
 
 > [!NOTE]  
-> This repository contains modified code from the original repository that accompanied the pre-print publication in [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.12.19.571883v1). The original repository and code was authored by [Duncan Burger](https://github.com/duncanberger).   
+> This repository contains modified code from the original repository that accompanied the pre-print publication in [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.12.19.571883v1). The original repository and code was authored by [Duncan Burger](https://github.com/duncanberger). To view the original repository, please click on the gollowing links:
+> |[Brueggemann Lab (forked) Repository](https://github.com/brueggemann-lab/PGL_cgMLST) | [Duncan Burger's Repository](https://github.com/duncanberger/PGL_cgMLST)|
+> |-------------------------------------------------------------------------------------|-------------------------------------------------------------------------|   
 
 # Codebook
 This repository contains two main folders: `Analysis` and `Figures`. 
 <details>
-<summary>Folder contents</summary>
+<summary>View folder contents</summary>
 1. Analysis - contains the code used to generate... <br>
 2. Figures - contains R code in markdown format
 </details>
