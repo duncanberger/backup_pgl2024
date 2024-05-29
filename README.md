@@ -27,6 +27,11 @@ This repository contains the code used to run analyses and generate figures for 
 
 # Codebook
 This repository contains two main folders: `Analysis` and `Figures`. 
+```mermaid
+graph TD;
+a-->b;
+b-->c;
+```
 <details>
 <summary>View folder contents</summary>
 <ol>
@@ -36,18 +41,8 @@ This repository contains two main folders: `Analysis` and `Figures`.
       <li>the phylogenetic tree</li>
     <li>GPSC and Mandrake clustering</li>
     </ol>
-  <li>Figures</li>
+  <li>Figures - contains the R code in markdown format used to generate main and supplementary figures</li>
 </ol>
-</details>
-
-
-
-  
-- 1. Analysis - contains the code used to generate:<br>
-  - 1.1 the distance matrix<br>
-  - 1.2 the phylogenetic tree<br> 
-  - 1.3 GPSC and Mandrake clustering <br>
-- 2. Figures - contains R code in markdown format
 </details>
 
 # License
