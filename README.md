@@ -18,6 +18,17 @@
 This repository contains the code used to run analyses and generate figures for the following manuscript:  
 |*[Microbial Genomics](https://blank.page/)*|
 |------------------------------------------|
+<div align="center">
+<table>
+<tbody>
+<td align="center">
+<img width="2000" height="0"><br>
+<sub><a href="www.page.com">link text</a></sub><br>
+<img width="2000" height="0">
+</td>
+</tbody>
+</table>
+</div>
 
 # Codebook
 This repository contains two main folders: `Analysis` and `Figures`. 
