@@ -106,10 +106,13 @@ Distributed under the GNU General Public License v3.0. Please see `LICENSE` for 
 ## Publication History
 |**Publication**|**DOI**|
 |-------------------------------|------|
-|[*bioRxiv 2023*](https://www.biorxiv.org/content/10.1101/2023.12.19.571883v1)|![doi](https://img.shields.io/badge/DOI-https://doi.org/10.1101/2023.12.19.571883-blue)|  
+|[*bioRxiv* 2023](https://www.biorxiv.org/content/10.1101/2023.12.19.571883v1)|![doi](https://img.shields.io/badge/DOI-https://doi.org/10.1101/2023.12.19.571883-blue)|  
 
 >[!TIP]
 >**Reference**: Jansen van Rensburg MJ, Berger DJ, Fohrmann A, Bray JE, Jolley KA, Maiden MC, Brueggemann AB. Development of the Pneumococcal Genome Library, a core genome multilocus sequence typing scheme, and a taxonomic life identification number barcoding system to investigate and define pneumococcal population structure. bioRxiv. 2023:2023-12.
+
+[!IMPORTANT]
+> Maybe we should add lincide articles here?
 # Contact
 If you have any queries, suggestions or concerns, please contact [Professor Angela Brueggemann](mailto:angela.brueggemann@ndph.ox.ac.uk)  
 
