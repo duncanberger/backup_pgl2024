@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
 ![](https://img.shields.io/badge/Repository_created:-29_May_2024-green)
-![](https://img.shields.io/badge/Last_update:-29_May_2024-gray)
+![](https://img.shields.io/badge/Last_update:-29_May_2024-black)
 ![](https://img.shields.io/badge/PRIVATE-red)
 
 <p align="center">
@@ -16,9 +16,8 @@
 
 # Overview
 This repository contains the code used to run analyses and generate figures for the following manuscript:  
-<p align="center">
-[Microbial Genomics](https://blank.page/)
-</p>
+|*[Microbial Genomics](https://blank.page/)*|
+|------------------------------------------|
 
 # Codebook
 This repository contains two main folders: `Analysis` and `Figures`. 
