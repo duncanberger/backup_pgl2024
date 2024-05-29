@@ -16,24 +16,10 @@
 
 # Overview
 This repository contains the code used to run analyses and generate figures for the following manuscript:  
-|*[Microbial Genomics](https://blank.page/)*|
-|------------------------------------------|
 <p align="center">
 <a href="www.page.com">*Microbial Genomics*</a>
 </p>
 
-  
-<div align="center">
-<table>
-<tbody>
-<td align="center">
-<img width="2000" height="0"><br>
-<sub><a href="www.page.com">link text</a></sub><br>
-<img width="2000" height="0">
-</td>
-</tbody>
-</table>
-</div>
 
 # Codebook
 This repository contains two main folders: `Analysis` and `Figures`. 
@@ -48,11 +34,10 @@ Distributed under the GNU General Public License v3.0. Please see `LICENSE` for 
 ## Publication History
 |**Publication**|**DOI**|
 |-------------------------------|------|
-|[*bioRxiv 2023*](https://www.biorxiv.org/content/10.1101/2023.12.19.571883v1)|![doi](https://img.shields.io/badge/DOI-https://doi.org/10.1101/2023.12.19.571883-blue)|
+|[*bioRxiv 2023[^1]*](https://www.biorxiv.org/content/10.1101/2023.12.19.571883v1)|![doi](https://img.shields.io/badge/DOI-https://doi.org/10.1101/2023.12.19.571883-blue)|
+[^1] Jansen van Rensburg MJ, Berger DJ, Fohrmann A, Bray JE, Jolley KA, Maiden MC, Brueggemann AB. Development of the Pneumococcal Genome Library, a core genome multilocus sequence typing scheme, and a taxonomic life identification number barcoding system to investigate and define pneumococcal population structure. bioRxiv. 2023:2023-12.
 # Contact
-If you have any queries, suggestions or concerns, please contact Professor [Angela Brueggemann](mailto:angela.brueggemann@ndph.ox.ac.uk)
-
-***
+If you have any queries, suggestions or concerns, please contact [Professor Angela Brueggemann](mailto:angela.brueggemann@ndph.ox.ac.uk)  
 
 |Repository `PRIVATE` status since: 29/05/2024|
 |--------------------------------------------|
