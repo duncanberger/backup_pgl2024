@@ -26,3 +26,4 @@ If you have any queries, suggestions or concerns, please [get in touch.](mailto:
 ***
 
 |Repository `PRIVATE` status since: 29/05/2024|
+|--------------------------------------------|
