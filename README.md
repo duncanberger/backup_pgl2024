@@ -19,7 +19,7 @@ This repository contains the code used to run analyses and generate figures for 
 |*[Microbial Genomics](https://blank.page/)*|
 |------------------------------------------|
 <p align="center">
-<a href="www.page.com">link Microbial Genomics</a>
+<a href="www.page.com">*Microbial Genomics*</a>
 </p>
 
   
