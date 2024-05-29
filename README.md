@@ -49,10 +49,18 @@ dist-->Figures;
 tree-->Figures;
 clust-->Figures;
 clust2-->Figures;
-mermaid.flowchartConfig = {
-    width: 100%
-}
 
+var config = {
+            startOnLoad:true,
+            htmlLabels:true,
+            callback:function(id){
+                console.log(id,' rendered');
+            },
+            flowchart:{
+                    useMaxWidth:true,
+                }
+        };
+        mermaid.initialize(config);
 
 
 
