@@ -56,7 +56,7 @@ clust2-->Figures;
 ```diff
 - The flowchart above may not render upon first loading
 + Hit refresh on your browser to fix this
-@ Alternatively, hit the <--> button to view in a pop-out window
++ Alternatively, hit the <--> button to view in a pop-out window
 ```
 
 
