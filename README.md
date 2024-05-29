@@ -34,14 +34,16 @@ dist[Distance Matrix]
 tree[Phylogenetic Tree]
 clust[GPSC Clustering]
 clust2[Mandrake Clustering]
-
 repo-->Analysis;
 Analysis-->dist;
 Analysis-->tree;
 Analysis-->clust;
-analysis-->clust2;
+Analysis-->clust2;
+dist-->Manuscript;
+tree-->Manuscript;
+clust-->Manuscript;
+clust2-->Manuscript;
 repo-->Figures;
-Analysis-->Figures;
 Figures-->Manuscript;
 Analysis-->Manuscript;
 
