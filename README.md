@@ -29,8 +29,9 @@ This repository contains the code used to run analyses and generate figures for 
 This repository contains two main folders: `Analysis` and `Figures`. 
 ```mermaid
 graph TD;
-Repository-->Analysis;
-Repository-->Figures;
+repo[This Repository]
+repo-->Analysis;
+repo-->Figures;
 Figures-->Manuscript;
 Analysis-->Manuscript;
 
