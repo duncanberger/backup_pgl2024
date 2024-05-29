@@ -45,7 +45,16 @@ clust-->Manuscript;
 clust2-->Manuscript;
 repo-->Figures;
 Figures-->Manuscript;
-Analysis-->Manuscript;
+dist-->Figures;
+tree-->Figures;
+clust-->Figures;
+clust2-->Figures;
+
+
+
+
+
+
 
 
 
