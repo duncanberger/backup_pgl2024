@@ -53,7 +53,7 @@ tree-->Figures;
 clust-->Figures;
 clust2-->Figures;
 ```  
-Hit refresh if above figure is not rendering
+**Hit refresh on your browser if the above figure is not rendering**
 
 
 
@@ -111,7 +111,7 @@ Distributed under the GNU General Public License v3.0. Please see `LICENSE` for 
 >[!TIP]
 >**Reference**: Jansen van Rensburg MJ, Berger DJ, Fohrmann A, Bray JE, Jolley KA, Maiden MC, Brueggemann AB. Development of the Pneumococcal Genome Library, a core genome multilocus sequence typing scheme, and a taxonomic life identification number barcoding system to investigate and define pneumococcal population structure. bioRxiv. 2023:2023-12.  
 
-[!IMPORTANT]
+> [!IMPORTANT]
 > Maybe we should add lincide articles here?
 # Contact
 If you have any queries, suggestions or concerns, please contact [Professor Angela Brueggemann](mailto:angela.brueggemann@ndph.ox.ac.uk)  
