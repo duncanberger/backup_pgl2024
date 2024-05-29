@@ -14,6 +14,12 @@
 This repository contains the code used to run analyses and generate figures for the following manuscript:  
 [Microbial Genomics](https://blank.page/)
 # Codebook
+This repository contains two main folders: `Analysis` and `Figures`. 
+<details>
+<summary>Folder contents</summary>
+1. Analysis - contains the code used to generate... <br>
+2. Figures - contains R code in markdown format
+</details>
 
 # License
 Distributed under the GNU General Public License v3.0. Please see `LICENSE` for more information.
