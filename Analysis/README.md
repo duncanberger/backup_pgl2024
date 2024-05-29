@@ -39,7 +39,7 @@ FastTreeMP -gtr -nt -log logfile < out.18k.concat > out.18k.tree
 ClonalFrameML out.18k.tree out.reformatted.d.xmfa cframe_18k_d -xmfa_file true -show_progress true -output_filtered true
 
 ```
-## Mandrake
+## Mandrake clustering
 ```
 # Repeat allele concatenation and alignment as above on 5000 samples
 parallel -j8 "fastaqual_select.pl -f export_PubMLST.fasta -regexp {} > loci/{}.fasta" :::: spne.list
@@ -49,7 +49,7 @@ python concat_aln.py -a alignments/*.aln.out -u out.5k.concat -d ":"
 # Run Mandrake
 mandrake --alignment out.5k.concat --output def_knn5k
 ```
-# Run GPSC 
+# GPSC clustering 
 ```
 poppunk_assign --db GPS_v8_ref --external-clustering GPS_v8_external_clusters.csv --query fastalist.ls --output GPSC_result_v8 --threads 32
 ```
