@@ -18,8 +18,9 @@
 This repository contains the code used to run analyses and generate figures for the following manuscript:  
 <p align="center">
 <a href="www.page.com">*Microbial Genomics*</a>
-</p>
-
+</p>  
+> [!NOTE]  
+> This repository contains modified code from the original repository that accompanied the pre-print publication in [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.12.19.571883v1). The original repository and code was authored by [Duncan Burger](https://github.com/duncanberger).   
 
 # Codebook
 This repository contains two main folders: `Analysis` and `Figures`. 
