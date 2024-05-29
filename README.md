@@ -39,11 +39,25 @@ repo-->Analysis;
 Analysis-->dist;
 Analysis-->tree;
 Analysis-->clust;
-analusis-->clust2;
+analysis-->clust2;
 repo-->Figures;
 Analysis-->Figures;
 Figures-->Manuscript;
 Analysis-->Manuscript;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
