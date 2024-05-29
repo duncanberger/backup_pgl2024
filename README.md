@@ -49,7 +49,9 @@ dist-->Figures;
 tree-->Figures;
 clust-->Figures;
 clust2-->Figures;
-
+mermaid.flowchartConfig = {
+    width: 100%
+}
 
 
 
