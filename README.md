@@ -53,9 +53,10 @@ tree-->Figures;
 clust-->Figures;
 clust2-->Figures;
 ```
-```diff  
-- Hit refresh on your browser if the above figure is not rendering
-+ Not sure why this happens
+```diff
+The flowchart above may not render upon first loading
+Hit refresh on your browser to fix this
+Alternatively, hit the <--> button to view in a pop-out window
 ```
 
 
