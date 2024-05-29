@@ -38,7 +38,6 @@ tree[Phylogenetic Tree]
 clust[GPSC Clustering]
 clust2[Mandrake Clustering]
 repo-->Analysis;
-subgraph one;
 Analysis-->dist;
 Analysis-->tree;
 Analysis-->clust;
