@@ -29,11 +29,11 @@ This repository contains the code used to run analyses and generate figures for 
 This repository contains two main folders: `Analysis` and `Figures`. 
 <details>
 <summary>View folder contents</summary>
-1. Analysis - contains the code used to generate:<br>
-  1.1 the distance matrix<br>
-  1.2 the phylogenetic tree<br> 
-  1.3 GPSC and Mandrake clustering <br>
-2. Figures - contains R code in markdown format
+- 1. Analysis - contains the code used to generate:<br>
+  - 1.1 the distance matrix<br>
+  - 1.2 the phylogenetic tree<br> 
+  - 1.3 GPSC and Mandrake clustering <br>
+- 2. Figures - contains R code in markdown format
 </details>
 
 # License
