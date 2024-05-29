@@ -29,6 +29,15 @@ This repository contains the code used to run analyses and generate figures for 
 This repository contains two main folders: `Analysis` and `Figures`. 
 <details>
 <summary>View folder contents</summary>
+<ol>
+  <li>Analysis</li>
+  <li>Figures</li>
+</ol>
+</details>
+
+
+
+  
 - 1. Analysis - contains the code used to generate:<br>
   - 1.1 the distance matrix<br>
   - 1.2 the phylogenetic tree<br> 
