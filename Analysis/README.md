@@ -1,4 +1,4 @@
-# Anslysis
+# Analysis
 
 ## BUSCO completeness
 ```
