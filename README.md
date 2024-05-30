@@ -116,7 +116,7 @@ Distributed under the GNU General Public License v3.0. Please see `LICENSE` for 
 >**Reference**: Jansen van Rensburg MJ, Berger DJ, Fohrmann A, Bray JE, Jolley KA, Maiden MC, Brueggemann AB. Development of the Pneumococcal Genome Library, a core genome multilocus sequence typing scheme, and a taxonomic life identification number barcoding system to investigate and define pneumococcal population structure. bioRxiv. 2023:2023-12.  
 
 > [!IMPORTANT]
-> Please click [here](https://pubmlst.org/organisms/streptococcus-pneumoniae/pgl) to access more information about life identification number (LIN) codes. 
+> Please click [here](https://pubmlst.org/organisms/streptococcus-pneumoniae/pgl) to access more information about life identification number (LIN) codes. Additional information about how pubMLST deals with LINcodes can be found [here - BIGSdb documentation chapter 5](https://readthedocs.org/projects/bigsdb/downloads/pdf/latest/).
 # Contact
 If you have any queries, suggestions or concerns, please contact [Professor Angela Brueggemann](mailto:angela.brueggemann@ndph.ox.ac.uk)  
 
