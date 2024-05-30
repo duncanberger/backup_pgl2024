@@ -117,7 +117,6 @@ Distributed under the GNU General Public License v3.0. Please see `LICENSE` for 
 
 > [!IMPORTANT]
 > Please click [here](https://pubmlst.org/organisms/streptococcus-pneumoniae/pgl) to access more information about life identification number (LIN) codes. Additional information about how pubMLST deals with LINcodes can be found [here - BIGSdb documentation chapter 5](https://readthedocs.org/projects/bigsdb/downloads/pdf/latest/).
-> <a href="http://https://readthedocs.org/projects/bigsdb/downloads/pdf/latest/f#nameddest=Concepts and terms">Link text</a>
 # Contact
 If you have any queries, suggestions or concerns, please contact [Professor Angela Brueggemann](mailto:angela.brueggemann@ndph.ox.ac.uk)  
 
