@@ -1,4 +1,4 @@
-# FIGURE 3
+# FIGURE 4
 ```{r}
 # Import libraries 
 library(tidyverse)
