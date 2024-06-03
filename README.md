@@ -10,9 +10,7 @@
 ![](https://img.shields.io/badge/Last_update:-30_May_2024-black)
 ![](https://img.shields.io/badge/PUBLIC-green)
 
-<p align="center">
-  <img width="300" height="300" src=pgl.png>
-</p>
+
 
 # Overview
 This repository contains the code used to run analyses and generate figures for the following manuscript:  
